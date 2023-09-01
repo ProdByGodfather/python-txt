@@ -35,3 +35,10 @@ for i in get_all_lines_as_list:
     print(i,end='')
 
 ```
+
+For write on `.txt` file we using write method:
+```python
+
+file.write(text)
+
+```
